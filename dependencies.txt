@@ -1,0 +1,7 @@
+conda install -c spdf.gsfc.nasa.gov cdasws 
+conda install -c mavensdc cdflib 
+
+astropy
+numpy
+matplotlib
+scipy
