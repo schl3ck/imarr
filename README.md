@@ -24,7 +24,7 @@ python imarr.py
 # Know problems
 The implemented reconstruction methods are not good. Currently they assume that the spacecraft has passed the center of the flux rope which is not the case in most encounters.
 
-# Ideas
+# Ideas for further development
 ## General
 * display models in grid, not only column
 * remove models that never ran from model runner (or add button to let the user remove it)
