@@ -108,7 +108,7 @@ class Model:
     here if they are installed. Return True only when the model can be run,
     otherwise return a string that describes the problem
     """
-    return "Needs some coffee"
+    return True
 
   def showSettings(self, window: Toplevel, state: State):
     """Called when the user wants to change some options"""
