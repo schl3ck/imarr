@@ -14,12 +14,15 @@ This is an interface to ease the workflow of reconstructing magnetic flux ropes 
 
 # Installation
 1. Clone the repo
-1. Install all dependencies
+1. Install all dependencies using your preferred method
 
 # Execute
 ```
 python imarr.py
 ```
+
+# Documentation
+Can be found in the [wiki](https://github.com/schl3ck/imarr/wiki).
 
 # Know problems
 The implemented reconstruction methods are not good. Currently they assume that the spacecraft has passed the center of the flux rope which is not the case in most encounters.
